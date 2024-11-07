@@ -1,5 +1,15 @@
 # CARLA: Self-supervised Contrastive Representation Learning for Time Series Anomaly Detection
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/carla-a-self-supervised-contrastive/time-series-anomaly-detection-on-msl)](https://paperswithcode.com/sota/time-series-anomaly-detection-on-msl?p=carla-a-self-supervised-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/carla-a-self-supervised-contrastive/time-series-anomaly-detection-on-smap)](https://paperswithcode.com/sota/time-series-anomaly-detection-on-smap?p=carla-a-self-supervised-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/carla-a-self-supervised-contrastive/time-series-anomaly-detection-on-smd)](https://paperswithcode.com/sota/time-series-anomaly-detection-on-smd?p=carla-a-self-supervised-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/carla-a-self-supervised-contrastive/time-series-anomaly-detection-on-kpi)](https://paperswithcode.com/sota/time-series-anomaly-detection-on-kpi?p=carla-a-self-supervised-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/carla-a-self-supervised-contrastive/time-series-anomaly-detection-on-wadi)](https://paperswithcode.com/sota/time-series-anomaly-detection-on-wadi?p=carla-a-self-supervised-contrastive)
+
+![enter image description here](figs/monash-logo-mono.svg)
+
+The code is implemented in Python using the PyTorch framework.
+
 ## Introduction / Model Architecture
 
 Most time series anomaly detection models aim to learn normal behavior from unlabelled data, identifying anomalies as deviations from this behavior. However, the lack of labelled data makes it challenging to distinguish between normal and anomalous behaviors, often leading to high false positives when normal data slightly deviates from the defined normal boundary.
@@ -239,4 +249,3 @@ In Figure C1, for the unadjusted detection, we have True Positives (TP): 2, True
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
