@@ -1,4 +1,4 @@
-# CARLA: Self-supervised Contrastive Representation Learning for Time Series Anomaly Detection
+# CARLA: Self-Supervised Learning for Time-Series Anomaly Detectionin Industrial Internet of Things
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/carla-a-self-supervised-contrastive/time-series-anomaly-detection-on-msl)](https://paperswithcode.com/sota/time-series-anomaly-detection-on-msl?p=carla-a-self-supervised-contrastive)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/carla-a-self-supervised-contrastive/time-series-anomaly-detection-on-smap)](https://paperswithcode.com/sota/time-series-anomaly-detection-on-smap?p=carla-a-self-supervised-contrastive)
